@@ -104,3 +104,5 @@ Upon completion, the script automatically exports five formatted CSV files into 
 - **Random Seed:** Set to `20261029` for exact reproducibility of the omnibus permutation test.
 - **Monte Carlo Iterations:** 100,000 permutations.
 - Detailed R session information is printed to the console at script completion.
+
+  To cite: Mehmet Kececi and Omur Baysal, 2026 
